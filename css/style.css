@@ -128,3 +128,46 @@ header {
     padding: 11px 16px;
     margin-top: 45px;
 }
+
+/* section3 */
+
+.section3 {
+    width: 1440px;
+
+}
+
+.section3_h {
+    color: #4D4D4D;
+    font-size: 48px;
+    line-height: 62.40px;
+    letter-spacing: 0.24px;
+    font-family: 'Poppins', sans-serif;
+    width: 515px;
+    margin: auto;
+}
+
+figure {
+    display: inline-block;
+}
+
+.figure_img {
+    width: 580px;
+    height: 278px;
+    margin-top: 54px;
+}
+
+
+figcaption {
+    color: #535353;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.12px;
+    width: 580px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.section3_div {
+    width: 1180px;
+    display: block;
+    margin: 200px;
+}
