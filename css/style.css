@@ -1,0 +1,34 @@
+/* header */
+header {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+}
+
+.icon {
+    width: 20px;
+    height: 26px;
+
+}
+
+.nav1 {
+    display: inline-block;
+    margin-left: 861px;
+}
+
+.li1 {
+    display: inline-block;
+}
+
+.post {
+    margin-inline: 51px;
+}
+
+
+.headernav {
+    color: white;
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+
+}
