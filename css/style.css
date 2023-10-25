@@ -171,3 +171,30 @@ figcaption {
     display: block;
     margin: 200px;
 }
+
+/* footer */
+footer {
+    width: 1440px;
+    background-color: #2A9D8F;
+    margin: auto;
+    padding: 90px 130px;
+}
+
+.logo {
+    width: 42px;
+    height: 54px;
+    margin-right: 930px;
+}
+
+
+
+.footer_nav{display: inline-block; 
+}
+
+.footer_a {
+    display: inline-block;
+    color: white;
+    font-size: 18px;
+    line-height: 27px;
+    font-family: 'Poppins', 
+};
